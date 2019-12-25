@@ -1,5 +1,9 @@
 title: Ran Xin # your name (or website title) here
+<<<<<<< HEAD
 logo: "./WechatIMG34591.jpeg?raw=true" # your photo (or logo) here
+=======
+logo: "/WechatIMG34591.jpeg?raw=true" # your photo (or logo) here
+>>>>>>> d866a098c6b8d9567096f5d2d602947df0905eca
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Graduate student in City Planning | GIS | Smart Cities
   <br><br>
