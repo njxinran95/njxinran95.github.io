@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/pdf/Ran Xin-Bike share prediction.html)
+[Bike share space-time prediction, Philadelphia](/pdf/Ran Xin-Bike share prediction.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/Ran Xin-Bike share prediction.html)
+[EMS call prediction, Virginia Beach](/pdf/Ran Xin-EMS-call-prediction.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/pdf/Ran Xin-Bike share prediction.html)
+[Retail theft risk prediction, Chicago](/pdf/Ran Xin-Risk prediction for retail theft.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
