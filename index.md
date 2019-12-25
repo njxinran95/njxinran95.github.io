@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/pdf/Ran Xin-Bike share prediction.htm)
+[Project 1 Title](/pdf/Ran Xin-Bike share prediction.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/Ran Xin-Bike share prediction.htm)
+[Project 2 Title](/pdf/Ran Xin-Bike share prediction.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
