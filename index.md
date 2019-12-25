@@ -17,13 +17,11 @@
 
 ---
 
-### Category Name 2
+### Spatial analysis via ArcGIS
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [TOD analysis in Philadelphia](/pdf/Ran Xin-590 HW1_1.pdf)
+- [Urban Growth Boundary in Lancaster County](/pdf/Ran Xin-590 HW2_1.pdf)
+- [Urban Growth VS. Development Suitability](/pdf/Ran Xin-590 HW3_1.pdf)
 
 ---
 
