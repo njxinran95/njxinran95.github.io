@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Spatial analysis via R 
 
 [Bike share space-time prediction, Philadelphia](/pdf/Ran Xin-Bike share prediction.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
