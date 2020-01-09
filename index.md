@@ -5,15 +5,15 @@
 ### Spatial analysis via R 
 
 [Bike share space-time prediction, Philadelphia](/pdf/Ran Xin-Bike share prediction.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bike.png?raw=true"/>
 
 ---
 [EMS call prediction, Virginia Beach](/pdf/Ran Xin-EMS-call-prediction.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/EMS.png?raw=true"/>
 
 ---
 [Retail theft risk prediction, Chicago](/pdf/Ran Xin-Risk prediction for retail theft.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Risk.png?raw=true"/>
 
 ---
 
