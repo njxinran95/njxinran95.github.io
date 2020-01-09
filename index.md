@@ -33,5 +33,17 @@
 <img src="images/Ran Xin-Phoenixville base map-01.jpg?raw=true"/>
 
 ---
+
+### Infographics and icons via Illustrator
+
+- Infographics for demographics in East Kensington, Philadelphia
+<img src="images/infographic1-01.jpg?raw=true"/>
+<img src="images/infographic2-01.jpg?raw=true"/>
+- PNG icons
+<img src="images/FIMPC icons2-01.png?raw=true"/>
+<img src="images/FIMPC icons.png?raw=true"/>
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
