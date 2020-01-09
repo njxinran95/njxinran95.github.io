@@ -25,8 +25,12 @@
 
 ---
 
+### Mapmaking via ArcGIS and Illustrator
 
-
+- Base map: East Kensington, Philadelphia
+<img src="images/East Kensington-basemap-01.png?raw=true"/>
+- Base map: Phoenixville, PA
+<img src="images/Ran Xin-Phoenixville base map-01.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
