@@ -3,6 +3,7 @@
 ---
 
 ### Spatial analysis via R 
+I conducted multiple spatial analysis projects by using R, and focused building models with a sense of machine learning. The following projects mostly touch on predicting for real-time urban projects. 
 
 [Bike share space-time prediction, Philadelphia](/pdf/Ran Xin-Bike share prediction.html)
 <img src="images/bike.png?raw=true"/>
