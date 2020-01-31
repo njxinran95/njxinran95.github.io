@@ -2,7 +2,7 @@
 
 ---
 
-### Spatial analysis via R 
+### Machine learning projects
 I conducted multiple spatial analysis projects by using R, and focused building models with a sense of machine learning. The following projects mostly touch on predicting for real-world urban projects:
 
 [Bike share space-time prediction, Philadelphia](/pdf/Ran Xin-Bike share prediction.html)
@@ -18,7 +18,7 @@ I conducted multiple spatial analysis projects by using R, and focused building 
 
 ---
 
-### Spatial analysis via ArcGIS
+### Spatial analysis
 I also equipped myself with ArcGIS to work on spatial analysis with a focus on visualization trough map renderings:
 
 - [TOD analysis in Philadelphia](/pdf/Ran Xin-590 HW1_1.pdf)
@@ -27,7 +27,7 @@ I also equipped myself with ArcGIS to work on spatial analysis with a focus on v
 
 ---
 
-### Mapmaking via ArcGIS and Illustrator
+### Map visualization
 
 - Base map: East Kensington, Philadelphia
 <img src="images/East Kensington-basemap-01.png?raw=true"/>
@@ -36,7 +36,7 @@ I also equipped myself with ArcGIS to work on spatial analysis with a focus on v
 
 ---
 
-### Infographics and icons via Illustrator
+### Infographics and icons
 
 - Infographics for demographics in East Kensington, Philadelphia
 <img src="images/infographic1-01.jpg?raw=true"/>
