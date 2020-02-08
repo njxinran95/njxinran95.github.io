@@ -31,22 +31,25 @@ This project predicts retail theft risk in Chicago based on crime records and va
 
 [Larcerny index prediction, San Francisco](https://njxinran95.github.io/xin_he_finalproject)
 
-The Python project predicts larcerny risk in San Francisco by using "larceny index" as the dependent variable. It includes a variety of interactive visuals for exploratory analysis and modeling.  
+The **Python** project predicts larcerny risk in San Francisco by using "larceny index" as the dependent variable. It includes a variety of interactive visuals for exploratory analysis and modeling.  
 
 <img src="images/bokeh_plot.png?raw=true"/>
 
 ---
 
 ### Spatial Analysis
-I equipped myself with ArcGIS to conduct spatial analysis for different topics in city and regional planning. 
+I equipped myself with **ArcGIS** to conduct spatial analysis for different topics in city and regional planning. 
 
 - [TOD analysis in Philadelphia](/pdf/Ran Xin-590 HW1_1.pdf)
+
 Evaluated the feasibility of TOD along SEPTA metro lines in Philadelphia
 
 - [Urban Growth Boundary in Lancaster County](/pdf/Ran Xin-590 HW2_1.pdf)
+
 Explored the effects of Urban Growth Boundary on building densities and land use
 
 - [Urban Growth VS. Development Suitability](/pdf/Ran Xin-590 HW3_1.pdf)
+
 Analyzed the environmental sensitivity of land in Pennsylavnia to assess furture development through raster overlays 
 
 ---
