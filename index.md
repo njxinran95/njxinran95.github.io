@@ -41,8 +41,16 @@ The Python project predicts larcerny risk in San Francisco by using "larceny ind
 I also equipped myself with ArcGIS to work on spatial analysis with a focus on visualization trough map renderings:
 
 - [TOD analysis in Philadelphia](/pdf/Ran Xin-590 HW1_1.pdf)
+
+Evaluated the feasibility of TOD along SEPTA metro lines in Philadelphia
+
 - [Urban Growth Boundary in Lancaster County](/pdf/Ran Xin-590 HW2_1.pdf)
+
+Explored the effects of Urban Growth Boundary on building densities and land use
+
 - [Urban Growth VS. Development Suitability](/pdf/Ran Xin-590 HW3_1.pdf)
+
+Analyzed the environmental sensitivity of land in Pennsylavnia to assess furture development  
 
 ---
 
