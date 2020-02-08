@@ -55,7 +55,7 @@ Analyzed the environmental sensitivity of land in Pennsylavnia to assess furture
 ---
 
 ### Smart City Project
-As a student in Smart Cities concentration at Penn, I did a project in improving intersection safety by programming with **Arduino** for a working prototype. The project is called "**SMARTISS-Smart Intersection Safety System**". In brief, the system engages various **sensors** to detect pedestrains who are crossing the intersection when the traffic light is red, and will remind drivers that are coming towards the intersection.
+As a student in Smart Cities concentration, I did a project in improving intersection safety by programming with **Arduino** for a working prototype. The project is called "**SMARTISS-Smart Intersection Safety System**". In brief, the system engages various **sensors** to detect pedestrains who are crossing the intersection when the traffic light is red, and will remind drivers that are coming towards the intersection.
 
 - [SMARTISS-Smart Intersection Safety System](http://www.sensingthecity.com/smartiss-smart-intersection-safety-system/)
 - [My tutorial for a technical part of this project](http://www.sensingthecity.com/integrating-rgb-led-simple-traffic-light-and-pir-sensor-to-detect-the-presence-of-people/)
