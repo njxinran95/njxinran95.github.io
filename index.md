@@ -9,7 +9,7 @@ I conducted multiple data analysis projects by using **R** and **Python**, and f
 
 The algorithm model aims to predict Indego bike share demand in Philadelphia by taking time, physical and socio-economic factors into account. The model can assist Indego to better allocate bike resources based on demand varying across **time and space**.
 
-<img src="images/bike.png?raw=true" width='200' height='100'/>
+<img src="images/bike.png?raw=true" height='100'/>
 
 ---
 
