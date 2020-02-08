@@ -2,10 +2,11 @@
 
 ---
 
-### Machine learning projects
-I conducted multiple spatial analysis projects by using R, and focused building models with a sense of machine learning. The following projects mostly touch on predicting for real-world urban projects:
+### Data Analysis and Predictive Modeling
+I conducted multiple data analysis projects by using **R**, and focused on interpreting, engineering data and building models with the principles of **machine learning**. My projects response to the solutions for real-world concerns in **resource allocation**.
 
 [Bike share space-time prediction, Philadelphia](/pdf/Ran Xin-Bike share prediction.html)
+The algorithm model aims to predict Indego bike share demand in Philadelphia by taking time, physical and socio-economic factors into account. The model can assist Indego to better allocate bike resources based on demand varying across **time and space**.
 <img src="images/bike.png?raw=true"/>
 
 ---
