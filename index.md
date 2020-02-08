@@ -38,37 +38,40 @@ The Python project predicts larcerny risk in San Francisco by using "larceny ind
 ---
 
 ### Spatial Analysis
-I also equipped myself with ArcGIS to work on spatial analysis with a focus on visualization trough map renderings:
+I equipped myself with ArcGIS to conduct spatial analysis for different topics in city and regional planning. 
 
 - [TOD analysis in Philadelphia](/pdf/Ran Xin-590 HW1_1.pdf)
-
 Evaluated the feasibility of TOD along SEPTA metro lines in Philadelphia
 
 - [Urban Growth Boundary in Lancaster County](/pdf/Ran Xin-590 HW2_1.pdf)
-
 Explored the effects of Urban Growth Boundary on building densities and land use
 
 - [Urban Growth VS. Development Suitability](/pdf/Ran Xin-590 HW3_1.pdf)
-
-Analyzed the environmental sensitivity of land in Pennsylavnia to assess furture development  
+Analyzed the environmental sensitivity of land in Pennsylavnia to assess furture development through raster overlays 
 
 ---
 
-### Maps 
+### Cartographic Design 
+My skill also sets in cartographic design with the ability to complete the cartography in a GIS setting. 
 
-- Base map: East Kensington, Philadelphia
+- Basemap: East Kensington neighborhood in Philadelphia
 <img src="images/East Kensington-basemap-01.png?raw=true"/>
-- Base map: Phoenixville, PA
+- Basemap: Phoenixville Borough, PA
 <img src="images/Ran Xin-Phoenixville base map-01.jpg?raw=true"/>
+- Map: Hong Kong water supply system
+<img src="images/HK_water-01.png?raw=true"/>
 
 ---
 
 ### Graphics
+With a working knowlege of Adobe Creative Suite, I performed various graphic works. The following images are made in **Adobe Illustrator**.
 
-- Infographics for demographics in East Kensington, Philadelphia
+- Infographics for selected demographics of East Kensington neighborhood in Philadelphia
 <img src="images/infographic1-01.jpg?raw=true"/>
 <img src="images/infographic2-01.jpg?raw=true"/>
-- PNG icons
+- Diagram for Net Zero Water 
+<img src="images/Infographic-NetZeroWater.png?raw=true"/>
+- Miscellaneous icons
 <img src="images/FIMPC icons2-01.png?raw=true"/>
 <img src="images/FIMPC icons.png?raw=true"/>
 
