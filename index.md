@@ -12,6 +12,7 @@ The algorithm model aims to predict Indego bike share demand in Philadelphia by 
 <img src="images/bike.png?raw=true"/>
 
 ---
+
 [EMS call prediction, Virginia Beach](/pdf/Ran Xin-EMS-call-prediction.html)
 
 With existing EMS call records data, this project predicted space and time distribution of future EMS calls by adopting **Poisson Regression** and **Linear Regression**, and an **APP wireframe** was also developed for ambulance drivers by providing the fastest route to direct to the right place based on modeling results. 
@@ -19,6 +20,7 @@ With existing EMS call records data, this project predicted space and time distr
 <img src="images/EMS.png?raw=true"/>
 
 ---
+
 [Retail theft risk prediction, Chicago](/pdf/Ran Xin-Risk prediction for retail theft.html)
 
 This project predicts retail theft risk in Chicago based on crime records and various risk factors, and also figures out potential risk hotspots.
@@ -26,6 +28,7 @@ This project predicts retail theft risk in Chicago based on crime records and va
 <img src="images/Risk.png?raw=true"/>
 
 ---
+
 [Larcerny index prediction, San Francisco](https://njxinran95.github.io/xin_he_finalproject)
 
 The Python project predicts larcerny risk in San Francisco by using "larceny index" as the dependent variable. It includes a variety of interactive visuals for exploratory analysis and modeling.  
