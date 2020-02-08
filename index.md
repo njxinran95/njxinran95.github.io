@@ -54,11 +54,11 @@ Analyzed the environmental sensitivity of land in Pennsylavnia to assess furture
 ### Cartographic Design 
 My skill also sets in cartographic design with the ability to complete the cartography in a GIS setting. 
 
-- Basemap: East Kensington neighborhood in Philadelphia
+- **Basemap**: East Kensington neighborhood in Philadelphia
 <img src="images/East Kensington-basemap-01.png?raw=true"/>
-- Basemap: Phoenixville Borough, PA
+- **Basemap**: Phoenixville Borough, PA
 <img src="images/Ran Xin-Phoenixville base map-01.jpg?raw=true"/>
-- Map: Hong Kong water supply system
+- **Map visualization**: Hong Kong water supply system
 <img src="images/HK_water-01.png?raw=true"/>
 
 ---
@@ -66,12 +66,12 @@ My skill also sets in cartographic design with the ability to complete the carto
 ### Graphics
 With a working knowlege of Adobe Creative Suite, I performed various graphic works. The following images are made in **Adobe Illustrator**.
 
-- Infographics for selected demographics of East Kensington neighborhood in Philadelphia
+- **Infographics** for selected demographics of East Kensington neighborhood in Philadelphia
 <img src="images/infographic1-01.jpg?raw=true"/>
 <img src="images/infographic2-01.jpg?raw=true"/>
-- Diagram for Net Zero Water 
+- **Diagram for Net Zero Water** 
 <img src="images/Infographic-NetZeroWater.png?raw=true"/>
-- Miscellaneous icons
+- **Miscellaneous icons**
 <img src="images/FIMPC icons2-01.png?raw=true"/>
 <img src="images/FIMPC icons.png?raw=true"/>
 
